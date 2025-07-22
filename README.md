@@ -2,7 +2,7 @@
 
 A beginner-friendly Python script to generate a multiplication table for any number up to a custom range.
 
-# 🚀 Features
+#🚀 Features
 
 * Takes user input for the number and the range.
 * Displays a clean and formatted multiplication table.
