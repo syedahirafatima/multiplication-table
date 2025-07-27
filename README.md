@@ -8,7 +8,7 @@ A beginner-friendly Python script to generate a multiplication table for any num
 * Displays a clean and formatted multiplication table.
 * Great for kids, students, and beginner Python learners!
 
-#📌 How to Use
+#📌 How to  Use
 
 1. Make sure you have Python installed.
 2. Save the code in a file named `multiplication_table.py`.
