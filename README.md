@@ -48,7 +48,7 @@ Multiplication Table for 5 up to 10:
 
 This script helps learners:
 
-* Practice loops (`for` loop).
+* Practice loops (for loop).
 * Understand basic user input and output.
 * Apply multiplication logic in code.
 
