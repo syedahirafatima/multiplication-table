@@ -2,13 +2,13 @@
 
 A beginner-friendly Python script to generate a multiplication table for any number up to a custom range.
 
-# 🚀 Features
+## 🚀 Features
 
 * Takes user input for the number and the range.
 * Displays a clean and formatted multiplication table.
 * Great for kids, students, and beginner Python learners!
 
-# 📌 How to  Use
+## 📌 How to  Use
 
 1. Make sure you have Python installed.
 2. Save the code in a file named `multiplication_table.py`.
@@ -20,14 +20,14 @@ python multiplication_table.py
 
 4. Enter the number and the range when prompted.
 
-# 🔧 Example:
+## 🔧 Example:
 
 ```bash
 Enter a number to generate its multiplication table: 7
 Enter the range (e.g., 10 for 1 to 10): 12
 ```
 
-📋 Output:
+### 📋 Output:
 
 ```
 Multiplication Table for 5 up to 10:
@@ -44,7 +44,7 @@ Multiplication Table for 5 up to 10:
 5 x 10 = 50
 ```
 
-# 🧠 Educational Value
+## 🧠 Educational Value
 
 This script helps learners:
 
