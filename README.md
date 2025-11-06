@@ -1,14 +1,14 @@
-# 🧮 Multiplication Table Generator
+#  🧮 Multiplication Table Generator
 
 A beginner-friendly Python script to generate a multiplication table for any number up to a custom range.
 
-#🚀 Features
+# 🚀 Features
 
 * Takes user input for the number and the range.
 * Displays a clean and formatted multiplication table.
 * Great for kids, students, and beginner Python learners!
 
-#📌 How to  Use
+# 📌 How to  Use
 
 1. Make sure you have Python installed.
 2. Save the code in a file named `multiplication_table.py`.
